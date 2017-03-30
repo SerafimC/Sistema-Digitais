@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1462290970 source:/home/igor/Documentos/UFFS/Sistema_Digitais/coordenadas.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1462657915 source:/home/marcos/Documents/UFFS/Sistema_Digitais/coordenadas.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
